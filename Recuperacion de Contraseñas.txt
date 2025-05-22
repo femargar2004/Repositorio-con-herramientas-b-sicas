@@ -1,0 +1,10 @@
+Herramienta: Speccy
+
+A. **Descripción**:  
+Speccy es una utilidad de Piriform que permite ver información detallada del hardware y software del sistema, incluyendo CPU, RAM, disco, sistema operativo, etc.
+
+B. **Descarga**:  
+https://www.ccleaner.com/speccy
+
+C. **Video**:  
+https://youtu.be/HzYfJX2kDws
