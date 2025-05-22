@@ -1,10 +1,10 @@
-Herramienta: Speccy
+Herramienta: NirSoft ProduKey
 
 A. **Descripción**:  
-Speccy es una utilidad de Piriform que permite ver información detallada del hardware y software del sistema, incluyendo CPU, RAM, disco, sistema operativo, etc.
+ProduKey muestra las claves de producto de Windows y de Microsoft Office que están instaladas en tu sistema.
 
 B. **Descarga**:  
-https://www.ccleaner.com/speccy
+https://www.nirsoft.net/utils/product_cd_key_viewer.html
 
 C. **Video**:  
-https://youtu.be/HzYfJX2kDws
+https://youtu.be/XuJKUdf2bd0
